@@ -1,11 +1,11 @@
-<h1 style="text-align:left">Hello, sunshine!☀️  How are you? Oh, your rays are already making my day brighter!🌈</h1>
+<h3 style="text-align:left">Hello, sunshine!☀️  How are you? Oh, your rays are already making my day brighter!🌈</h3>
 <div align="center">
     <img src='./src/welcome.gif' style="width:100%">
 </div>
 
-<h2>I am <strong>Swasthik Shetty</strong> 👨🏻‍💻; A seasoned developer and designer. Loves to learn and explore new technologies and share the knowledge back to the community. I love to contribute and talk about the open-source while spending most of my time designing or on GitHub :octocat: .  
-  
-I am a Second-year Information Science Engineering student from Mangalore, India. I am a [GitHub Campus Expert](https://githubcampus.expert/swaaz/) 🚩; Lead of [Hack Club Sahyadri](https://hackclub.com/), Developer at [Codezoned](http://codezoned.com/) , Technical Head of [Sahyadri Open-Source Community](https://sosc.org.in/) and Community lead of [Mozilla Club Sahyadri](https://mozilla-sahyadri.netlify.app/).  </h2>
+<h4>I am <strong>Swasthik Shetty</strong> 👨🏻‍💻; A seasoned developer and designer. Loves to learn and explore new technologies and share the knowledge back to the community. I love to contribute and talk about the open-source while spending most of my time designing or on GitHub :octocat:.</h4>
+
+I am a Second-year Information Science Engineering student from Mangalore, India. I am a [GitHub Campus Expert](https://githubcampus.expert/swaaz/) 🚩; Lead of [Hack Club Sahyadri](https://hackclub.com/), Developer at [Codezoned](http://codezoned.com/) , Technical Head of [Sahyadri Open-Source Community](https://sosc.org.in/) and Community lead of [Mozilla Club Sahyadri](https://mozilla-sahyadri.netlify.app/).  </h4>
 
 <button style="font-color:blue; width:50px; height:100px">fhfhh</button>
 
