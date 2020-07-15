@@ -6,11 +6,10 @@
 
 I am a Second-year Information Science Engineering student from Mangalore, India. I am a [GitHub Campus Expert](https://githubcampus.expert/swaaz/) 🚩; Lead of [Hack Club Sahyadri](https://hackclub.com/), Developer at [Codezoned](http://codezoned.com/) , Technical Head of [Sahyadri Open-Source Community](https://sosc.org.in/) and Community lead of [Mozilla Club Sahyadri](https://mozilla-sahyadri.netlify.app/).  </h4>
 
-## Feild of Interest
-web dev, python dev compe
-
 <h2 align="center"><strong>Looking for Internship :eyes:</strong></h2>
-<h3 align="center">Port
+<p align="center">
+  <a href="">Portfolio</a> | <a hre="">Linkedin</a> •  <a href="">Twitter</a>
+</p>
 **Looking for Internship** is a ✨ _special_ ✨ repository be11cause its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
