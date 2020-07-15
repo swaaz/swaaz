@@ -9,10 +9,11 @@ I am a Second-year Information Science Engineering student from Mangalore, India
 <h2 align="center"><strong>Looking for Internship :eyes:</strong></h2>
 <p align="center">
   <a href="https://www.swaaz.me/">Portfolio</a> • 
-  <a hre="https://www.linkedin.com/in/swasthik-shetty-b50928174/">Linkedin</a> •  
+  <a href="https://www.linkedin.com/in/swasthik-shetty-b50928174/">Linkedin</a> • 
   <a href="https://twitter.com/Swaaz07">Twitter</a> • 
   <a href="mailto:swaasthik.shetty07@gmail.com">Email</a> • 
-  </a href="https://www.instagram.com/_swaaz_/?hl=en">Instagram</a> 
+  <a href="https://www.instagram.com/_swaaz_/?hl=en">Instagram</a> 
+  
 </p>
 
 
