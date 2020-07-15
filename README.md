@@ -1,7 +1,5 @@
 <h3 style="text-align:left">Hello, sunshine!☀️  How are you? Oh, your rays are already making my day brighter!🌈</h3>
-<div align="center">
-    <img src='./src/welcome.gif' style="width:100%">
-</div>
+<img src='./src/welcome.gif' style="width:100%">
 
 <h4>I am <strong>Swasthik Shetty</strong> 👨🏻‍💻; A seasoned developer and designer. Loves to learn and explore new technologies and share the knowledge back to the community. I love to contribute and talk about the open-source while spending most of my time designing or on GitHub :octocat:.</h4>
 
