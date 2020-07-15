@@ -1,5 +1,7 @@
 <h3 style="text-align:left">Hello, sunshine!☀️  How are you? Oh, your rays are already making my day brighter!🌈</h3>
-<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="80%" align="center"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="80%"/>
+ </div>
 <h4>I am <strong>Swasthik Shetty</strong> 👨🏻‍💻; A seasoned developer and designer. Loves to learn and explore new technologies and share the knowledge back to the community. I love to contribute and talk about the open-source while spending most of my time designing or on GitHub :octocat:.</h4>
 
 I am a Second-year Information Science Engineering student from Mangalore, India. I am a [GitHub Campus Expert](https://githubcampus.expert/swaaz/) 🚩; Lead of [Hack Club Sahyadri](https://hackclub.com/), Developer at [Codezoned](http://codezoned.com/) , Technical Head of [Sahyadri Open-Source Community](https://sosc.org.in/) and Community lead of [Mozilla Club Sahyadri](https://mozilla-sahyadri.netlify.app/).  </h4>
