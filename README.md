@@ -6,7 +6,7 @@
 
 I am a Second-year Information Science Engineering student from Mangalore, India. I am a [GitHub Campus Expert](https://githubcampus.expert/swaaz/) 🚩; Lead of [Hack Club Sahyadri](https://hackclub.com/) :hack_club: , Developer at [Codezoned](http://codezoned.com/) 💻 , Technical Head of [Sahyadri Open-Source Community](https://sosc.org.in/) and Community lead of [Mozilla Club Sahyadri](https://mozilla-sahyadri.netlify.app/)🔰, Campus Ambassador of IIT-Mandi and NIT-Hamirpur☢️. </h4>
 
-### Weekly Deployment
+#### Weekly Deployment
 <!--START_SECTION:waka-->
 ```text
 HTML        50 mins             █████████████████░░░░░░░░   69.03 
