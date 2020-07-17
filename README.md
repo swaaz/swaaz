@@ -7,6 +7,12 @@
 I am a Second-year Information Science Engineering student from Mangalore, India. I am a [GitHub Campus Expert](https://githubcampus.expert/swaaz/) 🚩; Lead of [Hack Club Sahyadri](https://hackclub.com/) :hack_club: , Developer at [Codezoned](http://codezoned.com/) 💻 , Technical Head of [Sahyadri Open-Source Community](https://sosc.org.in/) and Community lead of [Mozilla Club Sahyadri](https://mozilla-sahyadri.netlify.app/)🔰. I'm interested in Web Development, Python and competitive programming ☢️ . </h4>
 
 <!--START_SECTION:waka-->
+```text
+HTML        50 mins             █████████████████░░░░░░░░   69.03 
+CSS         22 mins             ███████░░░░░░░░░░░░░░░░░░   30.51 
+CoffeeScript0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46 
+INI         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0
+```
 <!--END_SECTION:waka-->
 
 <h2 align="center"><strong>Looking for Internship :eyes:</strong></h2>
