@@ -4,6 +4,7 @@
  </div>
 <h4>I am <strong>Swasthik Shetty</strong> 👨🏻‍💻; A seasoned developer and designer. Loves to learn and explore new technologies and share the knowledge back to the community. I love to contribute and talk about the open-source while spending most of my time designing or on GitHub :octocat:.</h4>
 
+
 I am a Second-year Information Science Engineering student from Mangalore, India. I am a [GitHub Campus Expert](https://githubcampus.expert/swaaz/) 🚩; Lead of [Hack Club Sahyadri](https://hackclub.com/) :hack_club: , Developer at [Codezoned](http://codezoned.com/) 💻 , Technical Head of [Sahyadri Open-Source Community](https://sosc.org.in/) and Community lead of [Mozilla Club Sahyadri](https://mozilla-sahyadri.netlify.app/)🔰, Campus Ambassador of IIT-Mandi and NIT-Hamirpur☢️. </h4>
 
 #### Weekly Deployment
@@ -16,6 +17,7 @@ HTML     36 mins         ░░░░░░░░░░░░░░░░░░�
 Text     21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 <!--END_SECTION:waka-->
+
 
 <h2 align="center"><strong>Looking for Internship :eyes:</strong></h2>
 <p align="center">
