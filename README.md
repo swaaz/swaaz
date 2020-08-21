@@ -9,11 +9,11 @@ I am a Second-year Information Science Engineering student from Mangalore, India
 #### Weekly Deployment
 <!--START_SECTION:waka-->
 ```text
-Dart     2 hrs 40 mins   ████████████▒░░░░░░░░░░░░   49.71 % 
-Other    1 hr 36 mins    ███████▒░░░░░░░░░░░░░░░░░   29.69 % 
-HTML     55 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Python   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-CSS      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Dart     3 hrs 19 mins   █████████████▒░░░░░░░░░░░   52.93 % 
+Other    1 hr 55 mins    ███████▓░░░░░░░░░░░░░░░░░   30.79 % 
+HTML     41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Python   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+CSS      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 ```
 <!--END_SECTION:waka-->
 
