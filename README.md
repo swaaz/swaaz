@@ -19,7 +19,7 @@ SCSS     1 min           ░░░░░░░░░░░░░░░░░░�
 
 <h2 align="center"><strong>Looking for Internship :eyes:</strong></h2>
 <p align="center">
-  <a href="https://www.swaaz.me/">Portfolio</a> • 
+  <a href="https://www.swaaz.me/"><img src='./src/port'</a> • 
   <a href="https://www.linkedin.com/in/swasthik-shetty-b50928174/">Linkedin</a> • 
   <a href="https://twitter.com/Swaaz07">Twitter</a> • 
   <a href="mailto:swaasthik.shetty07@gmail.com">Email</a> • 
