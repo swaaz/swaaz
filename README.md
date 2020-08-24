@@ -18,15 +18,15 @@ HTML       2 mins          ░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <h2 align="center"><strong>Looking for Internship :eyes:</strong></h2>
-<p align="center">
-  <a href="https://www.swaaz.me/"><img src='./src/www.png' style='width:50px; height:50px;'/></a>&nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/swasthik-shetty-b50928174/"><img src='./src/linkedin.png' style='width:50px'/></a> 
-  <a href="https://twitter.com/Swaaz07"><img src='./src/twitter.png' style='width:50px'/></a> 
-  <a href="mailto:swaasthik.shetty07@gmail.com"><img src='./src/gmail.png' style='width:50px'/></a> 
-  <a href="https://www.instagram.com/_swaaz_/?hl=en"><img src='./src/instagram.png' style='width:60px'/></a> 
+<div style='display:flex; flex-direction: row; justify-content: center;  flex-flow:row wrap; '>
+  <a href="https://www.swaaz.me/"><img src='./src/www.png' style='width:30px;'/></a>
+  <a href="https://www.linkedin.com/in/swasthik-shetty-b50928174/"><img src='./src/linkedin.png' style='width:30px'/></a> 
+  <a href="https://twitter.com/Swaaz07"><img src='./src/twitter.png' style='width:30px'/></a> 
+  <a href="mailto:swaasthik.shetty07@gmail.com"><img src='./src/gmail.png' style='width:30px'/></a> 
+  <a href="https://www.instagram.com/_swaaz_/?hl=en"><img src='./src/instagram.png' style='width:30px'/></a> 
   
-</p>
-
+</div>
+<!-- 
 <p align="center">
  <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a>&nbsp; &nbsp;
@@ -40,7 +40,7 @@ HTML       2 mins          ░░░░░░░░░░░░░░░░░�
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
  </a>
   
-</p>
+</p> -->
 
 
 <!-- **Looking for Internship** is a ✨ _special_ ✨ repository be11cause its `README.md` (this file) appears on your GitHub profile.
