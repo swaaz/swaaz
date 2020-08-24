@@ -18,15 +18,29 @@ SCSS     1 min           ░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <h2 align="center"><strong>Looking for Internship :eyes:</strong></h2>
-<div align="center">
-  <a href="https://www.swaaz.me/"><img src='./src/www.png' style='width:50px; height:50px;'/></a>  
+<p align="center">
+  <a href="https://www.swaaz.me/"><img src='./src/www.png' style='width:50px; height:50px;'/></a>&nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/swasthik-shetty-b50928174/"><img src='./src/linkedin.png' style='width:50px'/></a> 
   <a href="https://twitter.com/Swaaz07"><img src='./src/twitter.png' style='width:50px'/></a> 
   <a href="mailto:swaasthik.shetty07@gmail.com"><img src='./src/gmail.png' style='width:50px'/></a> 
   <a href="https://www.instagram.com/_swaaz_/?hl=en"><img src='./src/instagram.png' style='width:60px'/></a> 
   
-</div>
+</p>
 
+<p align="center">
+ <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
+  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a>&nbsp; &nbsp;
+ <a href="https://www.instagram.com/cyber_freak_21/" target="blank">
+  <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+ </a>&nbsp; &nbsp;
+ <a href="https://twitter.com/pramod2107" target="blank">
+  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+ </a> &nbsp; &nbsp;
+ <a href="https://medium.com/@pramodrana2107" target="blank">
+  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
+ </a>
+  
+</p>
 
 
 <!-- **Looking for Internship** is a ✨ _special_ ✨ repository be11cause its `README.md` (this file) appears on your GitHub profile.
