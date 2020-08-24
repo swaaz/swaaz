@@ -18,14 +18,14 @@ SCSS     1 min           ░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <h2 align="center"><strong>Looking for Internship :eyes:</strong></h2>
-<p align="center">
+<div align="center">
   <a href="https://www.swaaz.me/"><img src='./src/www.png' style='width:50px; height:50px;'/></a>  
   <a href="https://www.linkedin.com/in/swasthik-shetty-b50928174/"><img src='./src/linkedin.png' style='width:50px'/></a> 
   <a href="https://twitter.com/Swaaz07"><img src='./src/twitter.png' style='width:50px'/></a> 
   <a href="mailto:swaasthik.shetty07@gmail.com"><img src='./src/gmail.png' style='width:50px'/></a> 
   <a href="https://www.instagram.com/_swaaz_/?hl=en"><img src='./src/instagram.png' style='width:60px'/></a> 
   
-</p>
+</div>
 
 
 
