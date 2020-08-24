@@ -28,17 +28,25 @@ SCSS     1 min           ░░░░░░░░░░░░░░░░░░�
 </div> -->
 
 <p align="center">
- <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
-  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" /></a>&nbsp; &nbsp;
- <a href="https://www.instagram.com/cyber_freak_21/" target="blank">
-  <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+<a href="https://www.swaaz.me/" target="blank">
+  <img align="center" src="https://img.icons8.com/fluent/48/000000/resume-website.png" width="30px" /></a>&nbsp; &nbsp;
+
+ <a href="https://www.linkedin.com/in/swasthik-shetty-b50928174/" target="blank">
+ <img align="center" alt="Linkedin" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
  </a>&nbsp; &nbsp;
- <a href="https://twitter.com/pramod2107" target="blank">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
- </a> &nbsp; &nbsp;
- <a href="https://medium.com/@pramodrana2107" target="blank">
-  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="30px"/>
+
+ <a href="https://twitter.com/Swaaz07" target="blank">
+  <img align="center" alt="Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" /></a>&nbsp; &nbsp;
+
+   <a href="mailto:swaasthik.shetty07@gmail.com" target="blank">
+  <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" width="30px"/>
+ </a>&nbsp; &nbsp;
+
+ <a href="https://www.instagram.com/_swaaz_/?hl=en" target="blank">
+  <img align="center" alt="Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
  </a>
+ 
+
   
 </p>
 
