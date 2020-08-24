@@ -18,29 +18,29 @@ SCSS     1 min           ░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <h2 align="center"><strong>Looking for Internship :eyes:</strong></h2>
-<div style='display:flex; flex-direction: row; justify-content: center;  flex-flow:row wrap; '>
+<!-- <div style='display:flex; flex-direction: row; justify-content: center;  flex-flow:row wrap; '>
   <a href="https://www.swaaz.me/"><img src='./src/www.svg' style='width:30px;'/></a>
   <a href="https://www.linkedin.com/in/swasthik-shetty-b50928174/"><img src='./src/linkedin.svg' style='width:30px'/></a> 
   <a href="https://twitter.com/Swaaz07"><img src='./src/twitter.svg' style='width:30px'/></a> 
   <a href="mailto:swaasthik.shetty07@gmail.com"><img src='./src/gmail.svg' style='width:30px'/></a> 
   <a href="https://www.instagram.com/_swaaz_/?hl=en"><img src='./src/instagram.svg' style='width:30px'/></a> 
   
-</div>
-<!-- 
+</div> -->
+
 <p align="center">
  <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
-  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a>&nbsp; &nbsp;
+  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" /></a>&nbsp; &nbsp;
  <a href="https://www.instagram.com/cyber_freak_21/" target="blank">
   <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
  </a>&nbsp; &nbsp;
  <a href="https://twitter.com/pramod2107" target="blank">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
  </a> &nbsp; &nbsp;
  <a href="https://medium.com/@pramodrana2107" target="blank">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
+  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="30px"/>
  </a>
   
-</p> -->
+</p>
 
 
 <!-- **Looking for Internship** is a ✨ _special_ ✨ repository be11cause its `README.md` (this file) appears on your GitHub profile.
