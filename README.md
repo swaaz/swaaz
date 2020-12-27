@@ -4,16 +4,17 @@
  </div>
 <h4>I am <strong>Swasthik Shetty</strong> 👨🏻‍💻; A seasoned developer and designer. Loves to learn and explore new technologies and share the knowledge back to the community. I love to contribute and talk about the open-source while spending most of my time designing or on GitHub :octocat:.</h4>
 
-I am a Second-year Information Science Engineering student from Mangalore, India. I am a [GitHub Campus Expert](https://githubcampus.expert/swaaz/) 🚩; [Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/profile/39678), Lead of [Hack Club Sahyadri](https://hackclub.com/) , President of CodeChef SCEM Chapter,  Developer at [Codezoned](http://codezoned.com/) 💻 , Technical Head of [Sahyadri Open-Source Community](https://sosc.org.in/) and Community lead of [Mozilla Club Sahyadri](https://mozilla-sahyadri.netlify.app/)🔰, Campus Ambassador of IIT-Mandi and NIT-Hamirpur☢️. </h4>
+
+I am a Third-year Information Science Engineering student from Mangalore, India. I am a [GitHub Campus Expert](https://githubcampus.expert/swaaz/) 🚩; [Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/profile/39678), Lead of [Hack Club Sahyadri](https://hackclub.com/) , President of CodeChef SCEM Chapter, Developer at [Codezoned](http://codezoned.com/) 💻 , Technical Head of [Sahyadri Open-Source Community](https://sosc.org.in/) and Community lead of [Mozilla Club Sahyadri](https://mozilla-sahyadri.netlify.app/)🔰, Campus Ambassador of IIT-Mandi and NIT-Hamirpur☢️. </h4>
 
 #### Weekly Deployment
 <!--START_SECTION:waka-->
 ```text
-Dart     7 hrs 34 mins   ██████████████████▒░░░░░░   73.86 % 
-Other    2 hrs 13 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.76 % 
-HTML     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-Python   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-SCSS     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+JSX          13 hrs 6 mins   ████████████████░░░░░░░░░   64.07 % 
+Other        2 hrs 42 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+SCSS         2 hrs 7 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Python       2 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
 <!--END_SECTION:waka-->
 
