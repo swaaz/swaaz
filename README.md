@@ -10,11 +10,11 @@ I am a Third-year Information Science Engineering student from Mangalore, India.
 #### Weekly Deployment
 <!--START_SECTION:waka-->
 ```text
-Python       2 hrs 47 mins   ███████████░░░░░░░░░░░░░░   43.86 % 
-Other        2 hrs 29 mins   █████████▓░░░░░░░░░░░░░░░   38.99 % 
-C            45 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Markdown     13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Other        3 hrs 43 mins   ██████████░░░░░░░░░░░░░░░   40.35 % 
+Python       2 hrs 47 mins   ███████▓░░░░░░░░░░░░░░░░░   30.24 % 
+C            2 hrs 23 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.85 % 
+Markdown     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 <!--END_SECTION:waka-->
 
