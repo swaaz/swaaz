@@ -22,7 +22,7 @@ JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░
 
 
 <p align="center">
-<a href="https://www.swaaz.me/" target="blank">
+<a href="https://www.swaaz.dev/" target="blank">
   <img align="center" alt="portfolio" src="https://img.icons8.com/fluent/48/000000/resume-website.png" width="40px" height="40px"/>
   </a>&nbsp; &nbsp;
 
