@@ -10,11 +10,11 @@ I am a Third-year Information Science Engineering student from Mangalore, India.
 #### Weekly Deployment
 <!--START_SECTION:waka-->
 ```text
-JSX     8 hrs 15 mins   ██████████░░░░░░░░░░░░░░░   39.60 % 
-SCSS    5 hrs 46 mins   ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-Other   3 hrs 21 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-C++     1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-HTML    53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+JSX     8 hrs 43 mins   ██████████████▓░░░░░░░░░░   58.90 % 
+Other   2 hrs 30 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.91 % 
+C++     1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+HTML    45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+SCSS    32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 ```
 <!--END_SECTION:waka-->
 
