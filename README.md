@@ -34,9 +34,9 @@ No Activity tracked this Week
   <img align="center" alt="gmail" src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40px"/>
  </a>&nbsp; &nbsp;
 
- <a href="https://www.instagram.com/_swaaz_/?hl=en" target="blank">
+<!--  <a href="https://www.instagram.com/_swaaz_/?hl=en" target="blank">
   <img align="center" alt="Instagram" width="35px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
- </a>
+ </a> -->
  
 
   
