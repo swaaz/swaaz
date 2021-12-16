@@ -10,7 +10,8 @@ I am a Third-year Information Science Engineering student from Mangalore, India.
 #### Weekly Deployment
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Other        6 mins          █████████████████▓░░░░░░░   70.75 % 
+JavaScript   2 mins          ███████▒░░░░░░░░░░░░░░░░░   29.25 % 
 ```
 <!--END_SECTION:waka-->
 
