@@ -11,10 +11,9 @@ I am a Third-year Information Science Engineering student from Mangalore, India.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   3 hrs 21 mins   ███████████▓░░░░░░░░░░░░░   47.33 %
-SCSS         1 hr 56 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.33 %
-C++          39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
-Other        38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
+JavaScript   5 hrs 11 mins   ██████████████▒░░░░░░░░░░   57.29 %
+SCSS         2 hrs           █████▓░░░░░░░░░░░░░░░░░░░   22.07 %
+Other        42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
 ```
 
 <!--END_SECTION:waka-->
