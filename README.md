@@ -6,14 +6,7 @@
 
 I am a full time Cloud Solution Engineer at Google soving real world problems everyday. I am a [GitHub Campus Expert](https://githubcampus.expert/swaaz/) 🚩; [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/profile/39678), Lead of [Hack Club Sahyadri](https://hackclub.com/) , President of CodeChef SCEM Chapter, Developer at [Codezoned](http://codezoned.com/) 💻 , Technical Head of [Sahyadri Open-Source Community](https://sosc.org.in/) and Community Member of [Google Developer Student Club](https://gdsc.community.dev/sahyadri-college-of-engineering-management/) and  [Mozilla Club Sahyadri](https://mozilla-sahyadri.netlify.app/)🔰 </h4>
 
-#### Weekly Deployment
-<!--START_SECTION:waka-->
 
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 <h2 align="center"><strong>Looking for Internship :eyes:</strong></h2>
 
@@ -39,7 +32,6 @@ No activity tracked
   <img align="center" alt="Instagram" width="35px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
  </a> -->
  
-
   
 </p>
 
