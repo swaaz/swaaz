@@ -8,13 +8,11 @@ I am a full time Cloud Solution Engineer at Google soving real world problems ev
 
 #### Weekly Deployment
 <!--START_SECTION:waka-->
+
 ```text
-JSX          13 hrs 6 mins   ████████████████░░░░░░░░░   64.07 % 
-Other        2 hrs 42 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-SCSS         2 hrs 7 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Python       2 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 <h2 align="center"><strong>Looking for Internship :eyes:</strong></h2>
